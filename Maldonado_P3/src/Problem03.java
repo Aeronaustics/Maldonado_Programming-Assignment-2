@@ -1,3 +1,10 @@
+/* Maldonado, Ricardo
+ * Problem 03 of Programming Assignment 2
+ * This program polls the user, or multiple users 5 topics
+ * After the results are completed, it will tally and display the results in a simple chart
+ *with additional information for the user to break down the data.
+ */
+
 import java.util.Scanner;
 
 public class Problem03 {
